@@ -3,17 +3,17 @@
 
 header {
 width: 100%;
-height: 80px;
+height: 110px;
 padding: 25px 0; 
 background-color: #064A71
 }
 
-.branding {
-	width: 170px;
-	height: 30px; 
+.logo {
+	width: 175px;
+	height: 50px; 
 	float: left;
 	display: block; 
-	background: url("../final-images/logo.png") no-repeat;
+	background: url("../final-images/logo.png") no-repeat; 
 	text-indent: -999em; /* my first hack */ 
 }
 
@@ -39,6 +39,7 @@ nav li {
 	display: inline-block; 
 	padding-left: 20px;
 	padding-bottom: 7px;
+	padding-top: 15px;
 	cursor: pointer;
 }
 
@@ -82,13 +83,15 @@ a:active {
 	text-align: center;
 	text-transform: uppercase;
 	position: absolute;
+	text-decoration-color: white;
 	
 }
 
-/* Host */ 
+/* Welcome */ 
 .section-heads {
 	text-align: center;
 	margin: 20px;
+	color: #054264; 
 }
 
 
@@ -123,21 +126,19 @@ a:active {
 
 }
 
-/* Support */
-#support{
+/* History and Culture */
+#History{
 	
 	width: 100%;
-	padding: 200px 0;
 	float: left; 
 	text-align: center;
-	background: url(../images/world_dots.svg) no-repeat;
 	background-position: center;
 	background-size: 940px;
-	background-color: #5a5a5a;
+	background-color: #7BA5BC;
 	
 }
 
-/* Projects */
+/* Landmarks */
 
 #projects { /* grouping would be #projects, #support, #etc */
 	width: 100%;
