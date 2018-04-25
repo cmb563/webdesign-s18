@@ -98,7 +98,9 @@ a:active {
 	padding: 100px 0;
 	background: #ffffff;
 	float: left; 
+	
 }
+
 
 .host-image { 
 	width: 460px; 
@@ -135,11 +137,13 @@ a:active {
 
 		
 }
+/* Landmarks */
+
 #Landmarks{
 	
 	width: 100%;
 	float: left; 
-	text-align: center;
+	text-align: left;
 	background-position: center;
 	background-size: 940px;
 	background-color: #7BA5BC;
@@ -147,7 +151,11 @@ a:active {
 		
 }
 
-/* Landmarks */
+#Activity{
+	background-color: #7BA5BC;
+}
+
+
 
 #projects{ /* grouping would be #projects, #support, #etc */
 	width: 100%;
