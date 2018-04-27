@@ -161,26 +161,27 @@ a:active {
 	width: 100%;
 	padding: 100px 0;
 	float: left;
-	background: #7BA5BC;
+	background: #ffffff;
 }
 
 #projects h2 /*p*/ {
 	text-align: center;
 }
 
+
 #projects p {
-	text-align: center;
+	text-align: left;
 }
 
 .project-text {
 	margin-top: -7px;
 	padding: 20px 20px 10px 20px;
-	background: #ffffff;
+	background: #C5E8FC;
 }
 
 .project-caption {
 	text-align: left;
-	color: #5e5e5e;
+	color: #054264;
 }
 
 .project-link {
@@ -188,8 +189,10 @@ a:active {
 	letter-spacing: .09em;
 	text-transform: uppercase;
 	font-weight: 900;
-	color: #fc5f21;
+	text-align: center;
+	color: #FDC131;
 }
+
 
 /* Testimonials */
 
@@ -273,7 +276,7 @@ a:active {
 /* ------- [ Footer ] ------- */
 footer {
   width: 100%;
-  background-color: #3fa9f5;
+  background-color: #C5E8FC;
   float: left;
   text-align: left;
   padding: 100px 0 0 0;
@@ -353,7 +356,7 @@ footer a:active {
 .copyright {
   display:block;
   float: left;
-  background-color: #2f7fb8;
+  background-color: #054264;
   text-align: center;
   width: 100%;
   color: #ffffff;
