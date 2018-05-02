@@ -176,7 +176,7 @@ a:active {
 .project-text {
 	margin-top: -7px;
 	padding: 20px 20px 10px 20px;
-	background: #C5E8FC;
+	background: #ffffff;
 }
 
 .project-caption {
@@ -216,12 +216,14 @@ a:active {
 	width: 100%;
 	padding: 100px 0;
 	float: left;
-	background: #f2f2f2;
+	background: #E9EBE8;
+	 
 }
 
 .contact-form {
 	width: 460px;
 	font-size: 0.9em;
+	
 }
 
 .contact-form input[type="text"],
@@ -236,6 +238,7 @@ a:active {
 	line-height: 1.5;
 	background: #FFFFFF;
 	border: none;
+	
 }
 
 .contact-form select {
@@ -260,8 +263,8 @@ a:active {
 	font-weight: 700;
 	width: 125px;
 	height: 40px;
-	background: #938b84;
-	border: 1px solid #938b84;
+	background: #054264;
+	border: 1px solid #054264;
 	color: #ffffff;
 	border-radius: 35px;
 	
