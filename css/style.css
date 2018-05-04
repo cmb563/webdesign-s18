@@ -8,7 +8,7 @@ padding: 25px 0;
 background-color: #064A71
 }
 
-.branding {
+.logo {
 	width: 175px;
 	height: 50px; 
 	float: left;
@@ -100,7 +100,18 @@ a:active {
 	float: left; 
 	
 }
+#Welcome {
+	width: 100%;
+	padding: 100px 0;
+	background: #ffffff;
+	float: left; 
+	
+	
+}
 
+.blue-paragraph {
+	color: #064A71
+}
 
 .host-image { 
 	width: 460px; 
@@ -193,6 +204,12 @@ a:active {
 	color: #FDC131;
 }
 
+#news {
+	width: 100%;
+	padding: 100px 0;
+	background: #7BA5BC;
+	float: left; 
+}
 
 /* Testimonials */
 
@@ -216,7 +233,7 @@ a:active {
 	width: 100%;
 	padding: 100px 0;
 	float: left;
-	background: #E9EBE8;
+	background: #C5E8FC;
 	 
 }
 
@@ -279,7 +296,7 @@ a:active {
 /* ------- [ Footer ] ------- */
 footer {
   width: 100%;
-  background-color: #C5E8FC;
+  background-color: #7BA5BC;
   float: left;
   text-align: left;
   padding: 100px 0 0 0;
