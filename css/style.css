@@ -65,11 +65,14 @@ a:active {
 
 a:link, a:visited, a:hover{
     background-color: #064A71;
-    color: white;
-    
+    color: white; 
     text-align: center;
     text-decoration: none;
     display: inline-block;
+}
+
+a:hover, a:active {
+    color: #FDC131;
 }
 
 /* Hero Video */ 
