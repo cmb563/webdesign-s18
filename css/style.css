@@ -165,7 +165,22 @@ a:active {
 #Activity{
 	background-color: #7BA5BC;
 }
-
+.learn-more {
+	display: block;
+	float: right;
+}	
+.learn-more {
+    background-color: #054264; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+	border-radius: 35px; 
+}
+		
 
 
 #projects{ /* grouping would be #projects, #support, #etc */
@@ -284,6 +299,7 @@ a:active {
 	border: 1px solid #054264;
 	color: #ffffff;
 	border-radius: 35px;
+	
 	
 	
 }	
