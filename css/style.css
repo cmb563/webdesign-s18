@@ -165,11 +165,11 @@ a:active {
 #Activity{
 	background-color: #7BA5BC;
 }
-.learn-more {
+.button {
 	display: block;
 	float: right;
 }	
-.learn-more {
+.button {
     background-color: #054264; 
     border: none;
     color: white;
