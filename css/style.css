@@ -359,17 +359,17 @@ footer a:active {
   cursor: pointer;
 }
 .footer-nav ul li a:visted {
-  color: #c34e36;
+  color: #FDC131;
   text-decoration: none;
   cursor: pointer;
 }
 .footer-nav ul li a:hover {
-  color: #ed624a;
+  color: #FDC131;
   text-decoration: none;
   cursor: pointer;
 }
 .footer-nav ul li a:active {
-  color: #ed624a;
+  color: #FDC131;
 }
 .social-icons li {
   list-style-type: none;
