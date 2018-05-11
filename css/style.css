@@ -43,7 +43,7 @@ nav li {
 }
 
 a {
-	color: #000000;
+	color: #f6f6f6;
 	text-decoration: none;
 }
 a:link {
@@ -59,7 +59,7 @@ a:hover {
 	text-decoration: none;
 }
 a:active {
-	color: #000000;
+	color: #f6f6f6;
 	text-decoration: none;
 }
 
